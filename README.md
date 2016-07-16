@@ -4,4 +4,5 @@ As IOT devices take over the world, developers are empowered to create experienc
 
 As in the days of yore, this talk suggests a tournament of champions to determine a winner - pitting these languages in a battle royal. By crafting a program to control a friendly battle bot in each language, we will examine the tale of the tape - discussing the ecosystem, tools, strengths and weaknesses each combatant brings to the ring. So join the fray, cheer on a favorite, and see who walks out on top.
 
-## Pitch
+## Code
+You can find the code at [Github](https://github.com/jgretz/RobotRoyalRumble-Code)
